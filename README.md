@@ -1,1 +1,1 @@
-"My Java Practice programs".
+My Java Practice programs.
